@@ -18,10 +18,10 @@ Cardiovascular diseases are the leading cause of death globally. Using machine l
 
 - **Language**: Python
 - **Libraries**:
-  - pandas`, `numpy` – data handling
-  - matplotlib`, `seaborn` – visualization
-  - scikit-learn` – model training and evaluation
-  - XGBoost` / `Random Forest` / `Logistic Regression` – classification models
+  - pandas, numpy – data handling
+  - matplotlib, seaborn – visualization
+  - scikit-learn – model training and evaluation
+  - XGBoost` / Random Forest / Logistic Regression – classification models
 
 ## 🚀 Project Pipeline
 
