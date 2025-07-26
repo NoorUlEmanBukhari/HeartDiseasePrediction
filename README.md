@@ -11,8 +11,8 @@ Cardiovascular diseases are the leading cause of death globally. Using machine l
 - **Attributes**: 14 features including:
   - age`, `sex`, `cp`, `trestbps`, `chol`, `fbs`, `restecg`, `thalach`, `exang`, `oldpeak`, `slope`, `ca`, `thal`, `target`
 - **Target**:
-  - 0` – No heart disease
-  - 1` – Presence of heart disease
+  - 0 – No heart disease
+  - 1 – Presence of heart disease
 
 ## 🛠️ Tools & Technologies
 
@@ -51,7 +51,7 @@ Cardiovascular diseases are the leading cause of death globally. Using machine l
 
 - Best model: **Logistic Regression**, **RandomForestClassifier**, **XGBClassifier**
 - Accuracy: **82%**
-- ROC-AUC: ** 0.91**
+- ROC-AUC: **0.91**
 
 ## 📌 How to Run
 
